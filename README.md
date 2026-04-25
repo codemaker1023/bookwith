@@ -82,7 +82,3 @@ pnpm ts:check
 - **Backend**: FastAPI, SQLAlchemy, Pydantic, Weaviate, LangChain
 - **Frontend**: Next.js, TypeScript, Tailwind CSS, SWR, ePub.js
 - **Monorepo**: Turbo + pnpm workspaces
-
-## Documentation
-
-- Local setup and development details: [docs/DEVELOPMENT_GUIDE.md](docs/DEVELOPMENT_GUIDE.md)
